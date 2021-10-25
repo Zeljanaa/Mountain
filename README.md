@@ -1,6 +1,6 @@
 # Tests
 
-https://evansmeja.github.io/mountains/
+https://zeljanaa.github.io/Mountain/
 
 
 ## what to learn
